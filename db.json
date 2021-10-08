@@ -6,32 +6,23 @@
       "author": "typicode"
     },
     {
-      "title": "string",
-      "description": "string",
-      "data": "numero",
+      "race": "string",
+      "name": "string",
+      "age": "string",
       "id": 2
     },
     {
-      "title": "string",
-      "description": "string",
-      "data": "numero",
+      "race": "string",
+      "name": "string",
+      "age": "string",
       "id": 3
     },
     {
-      "title": "string",
-      "description": "string",
-      "data": "numero",
+      "race": "string",
+      "name": "string",
+      "age": "string",
       "id": 4
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+  
 }
